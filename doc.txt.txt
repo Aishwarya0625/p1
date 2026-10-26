@@ -1,2 +1,8 @@
 hello world
+<<<<<<< HEAD
 this a gdevops practice lab
+=======
+print("This is a devops lab:")
+>>>>>>> branch1
+ hello this git repository
+print("this is practice lab")
